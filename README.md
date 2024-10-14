@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+##Career
+- 영남대학교 전공자유선택학부 입학
+- 영남대학교 디지털융합대학 컴퓨터학부 전과
+
+- # email
+- loganyoo3365@naver.com
+
+-# Number
+-22321610
+
+-job
+-university student
+
 <!--
 **loganyoo7/loganyoo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
